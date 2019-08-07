@@ -6,4 +6,4 @@ This is a simple flask app for testing flask skills. The app is deployed to hero
 2. HTML
 3. CSS
 #### Setup
-clone it to your local PC from my github accout, alexarirok@github.com then run it.
+Visit https://simple-falsk-app.herokuapp.com/ to access this site.
